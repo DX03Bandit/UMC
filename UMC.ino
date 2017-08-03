@@ -43,46 +43,5 @@ finger.write(val2);
 lid.write(val3);
 
 delay (50);
-
-//myservo1.write (90);
-//myservo2.write (90);
-//delay(20);
-//myservo1.write (0);
-//myservo2.write (180);
-//delay(2000);
-//myservo1.write (90);
-//myservo2.write (90);
-//delay(2000);
-
-
-//  for (pos = 0; pos <= 180; pos += 1) { // goes from 0 degrees to 180 degrees
-//    // in steps of 1 degree
-//    myservo1.write(pos);              // tell servo to go to position in variable 'pos'
-//    myservo2.write(pos);              // tell servo to go to position in variable 'pos'
-//    delay(15);                       // waits 15ms for the servo to reach the position
-//  }
-//  for (pos = 180; pos >= 0; pos -= 1) { // goes from 180 degrees to 0 degrees
-//    myservo1.write(pos);              // tell servo to go to position in variable 'pos'
-//    myservo2.write(pos);              // tell servo to go to position in variable 'pos'
-//    delay(15);                       // waits 15ms for the servo to reach the position
-//  }
-
-//  myservo1.write(0);              // tell servo to go to position in variable 'pos'
-//  myservo2.write(0); 
-//  delay(10000);
-//  myservo1.write(90);              // tell servo to go to position in variable 'pos'
-//  myservo2.write(90); 
-//  delay(10000);
-//  myservo1.write(180);              // tell servo to go to position in variable 'pos'
-//  myservo2.write(180); 
-//  delay(10000);
-//  myservo1.write(90);              // tell servo to go to position in variable 'pos'
-//  myservo2.write(90); 
-//  delay(10000);
-//  myservo1.write(0);              // tell servo to go to position in variable 'pos'
-//  myservo2.write(0); 
-//  delay(10000);
-
-
 }
 
